@@ -1,0 +1,14 @@
+name: ert
+channels:
+  - gimli
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pygimli=1.5.5
+  - numpy=1.26
+  - scipy
+  - matplotlib=3.8
+  - pandas
+  - tetgen
+  - libblas=*=*openblas
+  - ipykernel
