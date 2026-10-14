@@ -28,6 +28,6 @@ https://mybinder.org/v2/gh/NinjaSaurio120/laboratorio-ert/HEAD?urlpath=lab/tree/
 
 | Archivo | Qué es |
 |---|---|
-| `lab_ert_sensibilidad_v3.ipynb` | El laboratorio completo (experimentos A–D y Punto 3) |
+| `Anexo_Laboratorio_2_ERT.ipynb` | El laboratorio completo |
 | `prueba_rapida.ipynb` | Prueba de 1 minuto: confirma que la inversión funciona |
 | `environment.yml` | Receta de instalación que usa Binder (no tocar) |
