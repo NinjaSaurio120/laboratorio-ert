@@ -13,7 +13,7 @@ https://mybinder.org/v2/gh/NinjaSaurio120/laboratorio-ert/HEAD?urlpath=lab/tree/
 - La primera vez Binder tarda **10–20 minutos** en preparar todo (instala PyGIMLi).
   Las siguientes veces suele abrir en 1–2 minutos.
 - Primero abre `prueba_rapida.ipynb` y córrelo: debe decir **FUNCIONA**.
-- Luego abre `lab_ert_sensibilidad_v3.ipynb` → menú **Run → Run All Cells**.
+- Luego abre `Anexo_Laboratorio_2_ERT.ipynb` → menú **Run → Run All Cells**.
 
 ## Importante sobre Binder
 
